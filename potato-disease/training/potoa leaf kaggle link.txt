@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+
+----  download only potato leaf images ----
+ 
